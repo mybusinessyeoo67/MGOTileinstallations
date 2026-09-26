@@ -1,0 +1,8 @@
+{
+  "name": "mcandrews-garden-oasis",
+  "private": true,
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "@netlify/identity": "^1.0.1"
+  }
+}
